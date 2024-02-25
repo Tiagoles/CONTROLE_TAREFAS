@@ -29,7 +29,7 @@
         @endguest
 
     </div>
-
+    @include('layouts.footer-welcome')
 </body>
 
 </html>
