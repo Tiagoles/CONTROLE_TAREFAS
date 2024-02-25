@@ -23,13 +23,13 @@ nav ul li {
 }
 .container-icon-page {
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 5px;
+    left: 5px;
     margin: 0 15px 0 0;
 }
 .container-icon-page img {
-    height: 60px;
-    width: 65px;
+    height: 40px;
+    width: 40px;
 }
 .nav-link {
     color: rgb(239, 239, 239);
@@ -69,13 +69,11 @@ nav ul li {
 }
 .main-title,
 .sub-title {
+    font-size: 36px;
     color: #fff;
     z-index: 999;
     font-weight: bolder;
     z-index: 1;
-}
-.main-title {
-    font-size: 36px;
 }
 .sub-title {
     font-size: 24px;
