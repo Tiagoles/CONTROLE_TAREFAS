@@ -1,5 +1,3 @@
- 
-
 require('./bootstrap')
 document.addEventListener("DOMContentLoaded", function(){
     const navLinksWelcomePage = document.querySelectorAll(".nav-link")
