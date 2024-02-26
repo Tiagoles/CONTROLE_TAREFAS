@@ -1,5 +1,5 @@
 <footer id="footer">
     <div class="footer-content">
-        &copy;Controle de tarefas, Todos os direitos reservados. 2024
+        <p><span>&copy;</span>Controle de tarefas, Todos os direitos reservados. 2024</p>
     </div>
 </footer>
