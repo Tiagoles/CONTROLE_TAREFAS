@@ -25,10 +25,6 @@ document.addEventListener("DOMContentLoaded", function(){
            event.preventDefault();  
            const target = this.getAttribute("href");
 
-
-
-
-
            setTimeout(function(){
                window.location.href = target;
            }, 500);
