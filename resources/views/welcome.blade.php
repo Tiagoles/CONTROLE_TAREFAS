@@ -20,14 +20,12 @@
         @include('layouts.navbar-welcome')
         <div class="container-img-background" style="background-image: url('{{ asset('img/bem-vindo/fundo.jpg') }}');"></div>
         @guest
-
             <h1 class="main-title">Desfrute do mais novo controlador de tarefas,<br> 
                 Domine seus trabalhos e aumente sua
                 produtividade,<br> com nosso app revolucionário! </h1>
             <h2 class="sub-title">Basta se cadastrar. é gratis!</h2>
             <a id="RegistrarClientePageGuest" href="{{route('register')}}">Cadastre-se</a>
         @endguest
-
     </div>
     @include('layouts.footer-welcome')
 </body>
