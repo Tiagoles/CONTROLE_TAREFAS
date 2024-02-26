@@ -104,4 +104,8 @@ nav ul li {
 }
 .footer-content p,span{
     color: #fff;
+    
+}
+.footer-content span{
+    font-weight: 600;
 }
